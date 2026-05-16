@@ -1,4 +1,3 @@
-# ultimate-devops-ai-infra-roadmap-2026
 # Ultimate DevOps + AI Infrastructure Roadmap (2026 Edition)
 
 A complete professional roadmap for becoming a world-class:
@@ -17,34 +16,7 @@ This repository is designed as a complete step-by-step learning path from beginn
 
 ---
 
-# Repository Structure
 
-ultimate-devops-ai-infra-roadmap-2026/
-│
-├── Level-1-Foundation-Engineer/
-├── Level-2-DevOps-Engineer/
-├── Level-3-Advanced-Platform-Engineer/
-├── Level-4-Senior-DevOps-Engineer/
-├── Level-5-Staff-Principal-Engineer/
-├── Level-6-AI-Infrastructure-Engineer/
-├── Level-7-Architect-Leadership/
-│
-├── Projects/
-├── Certifications/
-├── Interview-Preparation/
-├── System-Design/
-├── DevOps-Tools/
-├── AI-Infrastructure/
-├── Kubernetes/
-├── Terraform/
-├── Monitoring/
-├── Security/
-├── GitOps/
-├── MLOps/
-│
-└── README.md
-
----
 
 # LEVEL 1 — FOUNDATION ENGINEER
 
