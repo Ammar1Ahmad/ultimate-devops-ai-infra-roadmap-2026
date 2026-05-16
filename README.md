@@ -16,7 +16,17 @@ This repository is designed as a complete step-by-step learning path from beginn
 
 ---
 
+# Table of Contents
 
+- 🚀 [LEVEL 1 — FOUNDATION ENGINEER](#level-1--foundation-engineer)
+- ⚙️ [LEVEL 2 — DEVOPS ENGINEER](#level-2--devops-engineer)
+- ☸️ [LEVEL 3 — ADVANCED PLATFORM ENGINEER](#level-3--advanced-platform-engineer)
+- 🔐 [LEVEL 4 — SENIOR DEVOPS ENGINEER](#level-4--senior-devops-engineer)
+- 🏗️ [LEVEL 5 — STAFF / PRINCIPAL ENGINEER](#level-5--staff--principal-engineer)
+- 🤖 [LEVEL 6 — AI INFRASTRUCTURE ENGINEER](#level-6--ai-infrastructure-engineer)
+- 👑 [LEVEL 7 — ARCHITECT / ENGINEERING LEADERSHIP](#level-7--architect--engineering-leadership)
+
+---
 
 # LEVEL 1 — FOUNDATION ENGINEER
 
